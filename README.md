@@ -7,7 +7,7 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 ## Architecture
 
-![](/assets/images/Architecture.jpg)
+![](https://github.com/Smarty619/Kafka_Data_Eng_Proj/blob/main/Architecture.jpg)
 
 
 ## Technology Used
