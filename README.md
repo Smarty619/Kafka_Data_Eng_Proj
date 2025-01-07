@@ -15,8 +15,8 @@ We are going to use different technologies such as Python, Amazon Web Services (
 * Programming Language - Python
 * Amazon Web Service (AWS)
 * S3 (Simple Storage Service)
-* Athena
-* Glue Crawler
-* Glue Catalog
+* AWS Athena
+* AWS Glue Crawler
+* AWS Glue Catalog
 * AWS EC2
 * Apache Kafka
